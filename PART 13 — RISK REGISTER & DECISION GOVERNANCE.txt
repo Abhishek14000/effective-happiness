@@ -1,0 +1,101 @@
+PAGE 19
+PART 13 — RISK REGISTER & DECISION GOVERNANCE
+
+13.1 GOVERNANCE OBJECTIVE
+
+Convert insights into a practical risk-control operating system.
+
+Confidence in objective fit: High (0.86)
+
+---
+
+13.2 TOP RISK REGISTER
+
+R1: Burnout from sustained overdrive
+- Probability: High
+- Impact: High
+- Control: strict recovery protocol + workload caps
+
+R2: Impulsive decisions during stress
+- Probability: Moderate-High
+- Impact: High
+- Control: 48-hour cooling + written decision memo
+
+R3: Relationship strain from role spillover
+- Probability: Moderate-High
+- Impact: Moderate-High
+- Control: weekly boundary and communication check-ins
+
+R4: Financial leakage from unstructured commitments
+- Probability: Moderate
+- Impact: High
+- Control: automation + monthly audit + spending thresholds
+
+R5: Skill stagnation from operational overload
+- Probability: Moderate
+- Impact: Moderate-High
+- Control: protected learning blocks and quarterly capability review
+
+Confidence: High (0.85)
+
+---
+
+13.3 DECISION TIERS
+
+Tier 1 (reversible, low impact):
+- decide quickly with minimal overhead.
+
+Tier 2 (moderate impact):
+- require pros/cons, cost/risk analysis, 24-hour pause.
+
+Tier 3 (high impact, long-cycle):
+- require written thesis, external feedback, 48-hour cooling, final review at stable emotional baseline.
+
+Confidence: High (0.87)
+
+---
+
+13.4 REVIEW CADENCE
+
+Weekly:
+- tactical priorities + energy review.
+
+Monthly:
+- risk dashboard update.
+
+Quarterly:
+- strategic reset, commitment pruning, goal realignment.
+
+Confidence: High (0.86)
+
+---
+
+13.5 FAILURE-RECOVERY PLAYBOOK
+
+When a setback occurs:
+1) stabilize (sleep + routine + cash flow basics),
+2) diagnose root cause,
+3) implement one structural correction,
+4) re-enter with reduced complexity.
+
+Confidence: High (0.88)
+
+---
+
+PART 13 — CONSOLIDATED GOVERNANCE VERDICT
+
+- Decision quality determines outcome quality in this chart more than raw opportunity volume.
+- Governance structures reduce volatility and preserve long-term upside.
+- A disciplined risk protocol is mandatory, not optional.
+
+Overall confidence for PART 13: High (0.86)
+
+---
+
+PROGRESS REPORT
+
+Completed Section:
+PART 13 — RISK REGISTER & DECISION GOVERNANCE
+
+CONTINUATION MARKER:
+VRPT-2026-06-01-PART13-END
