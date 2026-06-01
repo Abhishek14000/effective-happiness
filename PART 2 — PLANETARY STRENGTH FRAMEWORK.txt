@@ -1,0 +1,223 @@
+PAGE 6
+PART 2 — PLANETARY STRENGTH FRAMEWORK
+
+2.1 SHADBALA CORE ASSESSMENT
+
+Source table used: “Shadbala and Bhavabala – Strength Calculations” from
+/tmp/workspace/Abhishek14000/effective-happiness/.tmp_report_extract.txt (lines ~2062 onward).
+
+Shadbala in Rupas (classical graha set):
+- Sun: 4.09 (minimum 5.00, ratio 0.82)
+- Moon: 7.50 (minimum 6.00, ratio 1.25)
+- Mars: 4.15 (minimum 5.00, ratio 0.83)
+- Mercury: 7.49 (minimum 7.00, ratio 1.07)
+- Jupiter: 7.12 (minimum 6.50, ratio 1.10)
+- Venus: 6.08 (minimum 5.50, ratio 1.11)
+- Saturn: 4.53 (minimum 5.00, ratio 0.91)
+
+Immediate strength verdict:
+- Clearly above requirement: Moon, Mercury, Jupiter, Venus.
+- Marginal/under requirement: Saturn (near-threshold), Sun, Mars.
+
+Classical interpretation frame:
+- Shadbala above minimum supports reliable phala delivery during dasha activation.
+- Below minimum does not deny results; it reduces consistency and increases dependence on support factors (house lordship, varga support, dasha/transit help).
+
+Net inference:
+- This chart has a strong mental-intellectual-benefic execution core (Moon/Mercury/Jupiter/Venus), while authority-drive and raw-force planets (Sun/Mars) require timing support and disciplined deployment.
+
+Confidence: High (0.88)
+
+---
+
+2.2 SUB-BALA DIAGNOSTICS
+
+2.2.1 Sthana Bala (positional strength)
+- Highest: Mercury (221.52), Moon (187.09), Jupiter (136.93)
+- Weakest: Venus (93.34), Mars (119.07), Saturn (119.16)
+
+Interpretation:
+- Mercury has superior positional competence; applied intellect and decision architecture are major chart assets.
+- Venus has lower positional footing despite good total shadbala, indicating compensation through other bala components.
+
+2.2.2 Dig Bala (directional strength)
+- Highest: Jupiter (43.68), Venus (37.31), Mercury (28.94)
+- Lowest: Moon (4.69), Mars (4.99), Sun (9.85)
+
+Interpretation:
+- Jupiter-Venus-Mercury deliver more naturally in directional expression.
+- Moon’s overall strength is high, but low digbala means emotional power is high yet directionally non-linear unless context is supportive.
+
+2.2.3 Kala Bala (temporal strength)
+- Highest: Jupiter (181.90), Moon (179.38), Venus (169.56)
+- Mid: Mercury (110.03), Saturn (105.44)
+- Lowest: Mars (83.59), Sun (30.56)
+
+Interpretation:
+- Timing-sensitive outcomes are favorable for Moon/Jupiter/Venus cycles.
+- Sun periods require external structural support for sustained outcomes.
+
+2.2.4 Chesta Bala (motional strength)
+- Highest: Saturn (55.99), Moon (54.84), Jupiter (53.71)
+- Lowest: Sun (13.80), Mars (18.55)
+
+Interpretation:
+- Saturn/Jupiter/Moon can persist and recover under pressure.
+- Sun/Mars may show bursty output rather than stable continuity unless reinforced.
+
+2.2.5 Drik Bala (aspectual support)
+- Positive: Mercury (+22), Sun (+6.15), Mars (+5.37)
+- Negative: Saturn (-36.79), Moon (-27.31), Jupiter (-23.45), Venus (-4.37)
+
+Interpretation:
+- Strong planets by total bala are simultaneously exposed to adverse aspectual pressure; this confirms “capacity is high, friction is also high.”
+- Mercury is the cleanest functioning planet in net mechanics because both total and drik support are favorable.
+
+Confidence: High (0.85)
+
+---
+
+2.3 ISHTA/KASHTA BALA STATUS
+
+Data status:
+- Ishta/Kashta numerical table is not explicitly visible in the extracted source text.
+
+Methodological handling:
+- No fabricated values are introduced.
+- Provisional inference is derived from total shadbala + drik/kala/chesta profile:
+  - Likely higher Ishta tendency: Moon, Mercury, Jupiter, Venus.
+  - Likely higher Kashta tendency under stress: Sun, Mars, Saturn (especially where drik and threshold deficits combine).
+
+Reliability flag:
+- This subsection remains conditional until direct Ishta/Kashta values are available from source tables/images.
+
+Confidence: Moderate (0.62)
+
+---
+
+2.4 AVASTHAS STATUS
+
+Data status:
+- Explicit avastha table (e.g., Deepta/Swasta/Mudita or Jagrat-Swapna-Sushupti mapping) is not clearly extractable in current text dump.
+
+Methodological treatment:
+- Avastha-specific judgments are deferred to avoid non-evidential claims.
+- Functional state is inferred conservatively via balas + dignity + house role only.
+
+Confidence: Moderate-Low (0.55)
+
+---
+
+PAGE 7
+2.5 DIGNITY & MODIFIER FRAMEWORK
+
+2.5.1 Sign dignity highlights (D1)
+- Sun in Libra: debilitated sign context.
+- Moon in Aries: active kendra expression, no debility issue.
+- Mars in Virgo: neutral/practical but not own/exaltation.
+- Mercury in Libra: neutral to workable.
+- Jupiter in Taurus: neutral/inimical sign context (Venus sign), but high bala offsets.
+- Venus in Sagittarius: neutral/inimical sign context (Jupiter sign), compensated by bala.
+- Saturn in Taurus: neutral operational earth placement.
+
+2.5.2 Retrogression
+- Retrograde shown: Jupiter, Saturn (nodes are always retrograde by motion model and marked [R] in source).
+
+Classical effect note:
+- Retrograde can intensify internalization and karmic revisitation; it may amplify delivery in some contexts while complicating timing and linearity.
+
+Applied verdict:
+- Jupiter(R): strengthens reflective judgment and delayed consolidation of gains.
+- Saturn(R): deepens karmic lessons in alliances/networks and slows but hardens outcomes.
+
+2.5.3 Combustion check
+Using source longitudes:
+- Sun 204°49’
+- Mercury 186°46’ (separation ~18°)
+- Venus 243°21’ (separation ~38°)
+- Mars 160°18’ (separation ~44°)
+- Jupiter 44°38’, Saturn 34°26’ (far)
+
+Verdict:
+- No major classical combustion condition is strongly indicated from available separations.
+
+2.5.4 Planetary War
+- Yuddha Bala row: all zeros.
+- Verdict: No active graha-yuddha influence in provided strength table.
+
+2.5.5 Vargottama / Pushkara
+Data status:
+- Explicit vargottama or pushkara tagging not directly shown in extracted text.
+- Therefore not asserted in this section.
+
+Confidence (modifier framework): Moderate-High (0.79)
+
+---
+
+2.6 STRONGEST → WEAKEST PLANET RANKING (JUSTIFIED)
+
+Primary ranking basis:
+- Source Relative Rank + ratio vs minimum + drik stress adjustment.
+
+Final ranked order (classical seven planets):
+1) Moon
+   - Highest shadbala rank, strongest ratio margin (1.25), major lagna role.
+   - Caution: strong negative drik pressure.
+2) Venus
+   - High ratio (1.11), strong kala support, robust net delivery in practical domains.
+3) Jupiter (R)
+   - High ratio (1.10), top dig/kala/chesta support, but notable negative drik.
+4) Mercury
+   - Strong ratio (1.07), highest sthana, positive drik; best technical consistency.
+5) Saturn (R)
+   - Below nominal minimum but not critically weak; very high chesta offsets.
+6) Mars
+   - Under minimum, weaker kala/chesta profile despite favorable functional lordship.
+7) Sun
+   - Lowest effective threshold ratio and debilitated sign context; needs strong support to deliver fully.
+
+Node handling (Rahu/Ketu):
+- Not included in shadbala numeric ranking (classical table scope issue), but operationally strong due to axis activation (Rahu 12H, Ketu 6H) and repeated dasha relevance.
+
+Confidence (ranking): High (0.83)
+
+---
+
+2.7 HOUSE STRENGTH SUPPORT SNAPSHOT (BHAVABALA CROSS-CHECK)
+
+From Total Bhav In Rupas ranking:
+- Strong houses: 3H, 1H, 12H, 6H, 4H
+- Weak houses: 10H (lowest), 7H, 2H, 8H, 5H
+
+Interpretive correction:
+- 10H low bhavabala does not cancel career outcomes because Lagnesha Moon occupies 10H and has high planetary strength.
+- Therefore: career promise is real, but high output may come with effort friction and fluctuating comfort.
+
+Confidence: Moderate-High (0.78)
+
+---
+
+PART 2 — CONSOLIDATED STRENGTH VERDICT
+
+- The chart is not uniformly strong; it is selectively strong.
+- Dominant strength engines: Moon, Mercury, Jupiter, Venus.
+- Vulnerability zone: Sun-Mars baseline force expression and Saturn’s stress burden.
+- Net result: High capability with frictional execution pattern; peak outcomes occur when strong planets are activated and structure is maintained.
+
+
+PROGRESS REPORT
+
+Completed Section:
+PART 2 — PLANETARY STRENGTH FRAMEWORK
+
+Current Report Length:
+~15–18 pages cumulative equivalent (Parts 0 + 1 + 2)
+
+Next Section:
+PART 3 — NAKSHATRA & KARMA ANALYSIS
+
+CONTINUATION MARKER:
+VRPT-2026-06-01-PART2-END-M3
+
+Instructions For Next Session:
+Resume at PAGE 8 with PART 3 only: Moon Nakshatra, Lagna Nakshatra, Atmakaraka/Amatyakaraka, Karakamsha, karmic themes, hidden strengths/weaknesses, and contradiction-resolved psychological synthesis.
