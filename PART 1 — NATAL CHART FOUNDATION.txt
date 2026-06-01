@@ -1,0 +1,383 @@
+PAGE 2
+PART 1 — NATAL CHART FOUNDATION
+
+1.1 BIRTH DETAILS
+
+Primary birth parameters used:
+- Name: Aditi Sharma
+- Date: 10 Nov 2000
+- Time: 22:10:30 (IST)
+- Place: Noida, India
+- Latitude/Longitude: 28°34’N, 77°19’E
+- Lagna: Cancer
+- Moon Sign (Rashi): Aries
+- Janma Nakshatra: Ashvini, Pada 3
+- Birth Dasha Balance: Ketu 2Y 1M 19D
+
+Derived structural map (D1 sign-house framework from Cancer Lagna):
+- 1H Cancer, 2H Leo, 3H Virgo, 4H Libra, 5H Scorpio, 6H Sagittarius,
+  7H Capricorn, 8H Aquarius, 9H Pisces, 10H Aries, 11H Taurus, 12H Gemini.
+
+D1 planetary placements reconstructed from source tables:
+- Sun: Libra (4H)
+- Moon: Aries (10H)
+- Mars: Virgo (3H)
+- Mercury: Libra (4H)
+- Jupiter (R): Taurus (11H)
+- Venus: Sagittarius (6H)
+- Saturn (R): Taurus (11H)
+- Rahu: Gemini (12H)
+- Ketu: Sagittarius (6H)
+
+Verification status:
+- D1 sign placements cross-confirmed in KP section (Su7, Mo1, Ma6, Me7, Ju2, Ve9, Sa2, Ra3, Ke9).
+- Lagna/Rashi/Nakshatra repeated consistently across multiple source pages.
+
+Confidence (structural chart reconstruction): High (0.90)
+
+---
+
+1.2 LAGNA ANALYSIS (CANCER ASCENDANT)
+
+Classical rule (Parashari tradition):
+- Lagna and Lagnesha define vitality, temperament, core life orientation, and ability to convert promise into results.
+
+Chart evidence:
+- Lagna = Cancer (movable water sign): responsive, protective, emotionally driven strategic adaptation.
+- Lagnesha Moon placed in Aries in 10th house (kendra): life direction becomes karma-oriented, visible, action-triggered.
+- Moon in Ashvini (Ketu-ruled): rapid initiation impulse, non-linear decision cycles, strong reset tendency.
+- 10H placement of Lagnesha links identity with status, output, recognition, and public-facing competence.
+
+Supporting varga signal:
+- D9 row indicates Moon in sign 3 (Gemini navamsha context from table ordering), adding intellectual variability and quick processing style to the public-role axis.
+
+Functional interpretation:
+- Cancer Lagna normally prioritizes emotional security; Moon in Aries/10H redirects this toward performance-security (achievement creates inner safety).
+- This configuration can create alternating cycles of high initiative and emotional fatigue, especially during harsh lunar triggers.
+
+Contradiction:
+- Cancer Lagna seeks containment; Aries Moon in 10H seeks immediate action and visibility.
+- Dominance assessment: 10H Moon dominates in career/public periods; Lagna baseline reasserts itself in private/family decisions.
+
+Probable manifestation:
+- Early responsibility-taking, reputation sensitivity, strong reaction to authority structures, and career choices shaped by emotional conviction rather than only material metrics.
+
+Confidence: High (0.84)
+
+---
+
+1.3 RASHI ANALYSIS (ARIES MOON)
+
+Classical rule:
+- Chandra Rashi governs lived mind-state, adaptation under stress, dasha experience texture, and relational reactivity.
+
+Chart evidence:
+- Moon in Aries (10H from Lagna) in Ashvini Pada 3.
+- Moon receives role-pressure due to kendra placement and career-linked house occupation.
+
+Analytical interpretation:
+- Aries Moon gives speed, decisiveness, and low tolerance for stagnation.
+- Ashvini imprint adds recovery power and crisis-startup capacity.
+- Pada 3 adds communicative/assertive expression and sharp task initiation.
+
+Counter-evidence:
+- Moon’s absolute shadbala is very high, but drik bala in the source is negative for Moon; this shows strong capacity with periodic emotional overexposure to conflicting influences.
+
+Dominance outcome:
+- Psychological baseline remains proactive and action-biased, but emotional consistency depends on timing windows and environment quality.
+
+Probable manifestation:
+- Fast role transitions, visible productivity bursts, impatience with delayed systems, and direct response style in professional contexts.
+
+Confidence: High (0.82)
+
+---
+
+PAGE 3
+1.4 PLANET-BY-PLANET ANALYSIS
+
+Method note for this subsection:
+Each graha is assessed across sign, house, dignity, lordship, aspects/conjunction context, practical manifestation, counter-evidence, and confidence.
+
+1.4.1 SUN
+- Sign/House: Libra, 4H
+- Nakshatra context from degree (204°49’): Vishakha sector (Jupiter-ruled span)
+- Dignity: Debilitation sign (Libra)
+- Lordship (Cancer Lagna): 2nd lord (wealth/family/speech)
+- Functional role: Maraka-linked wealth sustainer; value-system stabilizer when strong
+- Conjunction context: With Mercury in Libra (Budha-Aditya type possibility but weakened by debility context)
+
+Classical reading:
+- Debilitated Sun can reduce authority confidence and produce delayed self-definition in status equations.
+- In 4H, Sun links family base, property-security, education environment, and inner authority.
+
+Applied interpretation:
+- Financial voice (2L) depends on skill/intellect (Mercury) and collaboration frameworks rather than unilateral command.
+- Domestic or educational decisions may strongly affect earning trajectory.
+
+Counter-evidence:
+- Strong Mercury and strong Moon can compensate practical outcomes even when Sun dignity is weak.
+
+Confidence: Moderate-High (0.77)
+
+1.4.2 MOON
+- Sign/House: Aries, 10H
+- Nakshatra: Ashvini Pada 3
+- Dignity: Friendly/neutral operational placement with high career activation
+- Lordship: 1st lord (Lagnesha)
+- Functional role: Core life driver
+- Strength: Highest shadbala rank in source (shared top tier)
+
+Classical reading:
+- Lagnesha in 10H produces karma-centered life and public relevance.
+
+Applied interpretation:
+- Identity crystallizes through work, visibility, and performance cycles.
+- Strong adaptive intelligence under pressure; rapid restart ability.
+
+Counter-evidence:
+- Emotional volatility risk due to Aries impulse and negative drik component.
+
+Confidence: High (0.89)
+
+1.4.3 MARS
+- Sign/House: Virgo, 3H
+- Nakshatra by degree (160°18’): Hasta sector (Moon-ruled)
+- Dignity: Neutral sign; effort-house activation
+- Lordship: 5th and 10th lord (yogakaraka-type high importance for Cancer Lagna)
+- Functional role: Major karma-intelligence engine
+
+Classical reading:
+- 5L/10L connection to 3H enhances initiative, technical effort, skill application, competitive execution.
+
+Applied interpretation:
+- Career advancement through self-effort, skill repetition, communication, systems execution, and practical problem solving.
+
+Counter-evidence:
+- Mars not in own/exalted sign; sustained discipline required to realize full yogic promise.
+
+Confidence: High (0.83)
+
+1.4.4 MERCURY
+- Sign/House: Libra, 4H
+- Nakshatra by degree (186°46’): Chitra sector (Mars-ruled)
+- Dignity: Neutral in Venus sign
+- Lordship: 3rd and 12th lord
+- Functional role: Effort + expenditure + foreign/behind-the-scenes cognitive axis
+- Conjunctions: With Sun in 4H
+
+Classical reading:
+- 3L/12L Mercury in 4H can produce strong analytical mind, learning adaptability, and relocation/inner-restlessness themes.
+
+Applied interpretation:
+- Strong capacity for intellectual frameworks, planning, writing, and advisory/analytical work from structured environments.
+
+Counter-evidence:
+- 12L dimension can increase mental over-processing and sleep/rest imbalance during intense periods.
+
+Confidence: Moderate-High (0.79)
+
+1.4.5 JUPITER (RETROGRADE)
+- Sign/House: Taurus, 11H
+- Nakshatra by degree (44°38’): Rohini sector (Moon-ruled)
+- Dignity: In Venus sign; not classical strength by dignity alone
+- Lordship: 6th and 9th lord
+- Functional role: Mixed (trik + trine), dharmic opportunities with service-conflict overlay
+- Conjunction: With Saturn in 11H
+
+Classical reading:
+- 9L in 11H supports gains through networks, institutions, senior guidance, and long-range objectives.
+- 6L involvement introduces competition, debt/service duty, and periodic friction in gain channels.
+
+Applied interpretation:
+- Gains are available but effort-weighted; merit plus institutional complexity.
+
+Counter-evidence:
+- Negative drik bala in source warns of periodic judgment distortion or over-trust cycles.
+
+Confidence: Moderate-High (0.78)
+
+PAGE 4
+1.4.6 VENUS
+- Sign/House: Sagittarius, 6H
+- Nakshatra by degree (243°21’): Mula sector (Ketu-ruled)
+- Dignity: In Jupiter sign
+- Lordship: 4th and 11th lord
+- Functional role: Comfort-assets + gains in a service/conflict house
+- Conjunction: With Ketu in 6H sign-space
+
+Classical reading:
+- 11L in 6H can produce gains through service industries, problem-solving domains, compliance, health/admin functions, and competition handling.
+- 4L in 6H can stress domestic peace unless routines are well managed.
+
+Applied interpretation:
+- Material gains improve when effort is systematized and conflict is professionally handled.
+- Ketu influence may detach from conventional luxury but sharpen diagnostic ability.
+
+Counter-evidence:
+- Relationship harmony can be affected when work-conflict spills into private life.
+
+Confidence: Moderate-High (0.76)
+
+1.4.7 SATURN (RETROGRADE)
+- Sign/House: Taurus, 11H
+- Nakshatra by degree (34°26’): Krittika sector (Sun-ruled)
+- Dignity: Practical earth sign placement; slow but durable outcomes
+- Lordship: 7th and 8th lord
+- Functional role: Partnership karmas + transformation pressures through gains/networks
+- Conjunction: With Jupiter in 11H
+
+Classical reading:
+- 7L/8L Saturn in 11H can delay but stabilize alliance-driven gains; tests trust and commitment quality.
+
+Applied interpretation:
+- Social and professional circles become karmic filters; durable alliances form late but stronger.
+
+Counter-evidence:
+- Source drik bala for Saturn is sharply negative, indicating stress from external pressures and periodic social disillusionment.
+
+Confidence: Moderate (0.72)
+
+1.4.8 RAHU
+- Sign/House: Gemini, 12H
+- Nakshatra by degree (84°37’): Punarvasu sector (Jupiter-ruled)
+- Dignity: Sign-compatible with curiosity/intellect themes
+- Functional role: Expansion of foreign/isolated/research/psychic-background domains
+
+Classical reading:
+- Rahu in 12H amplifies foreign links, hidden processes, sleep-dream-psyche intensification, and expenditure volatility.
+
+Applied interpretation:
+- Strong potential for cross-border exposure, private research, unconventional learning, and backend influence.
+
+Counter-evidence:
+- Can create over-scatter and invisible stress if boundaries are weak.
+
+Confidence: Moderate-High (0.78)
+
+1.4.9 KETU
+- Sign/House: Sagittarius, 6H
+- Nakshatra by degree (264°37’): Purva Ashadha sector (Venus-ruled)
+- Functional role: Detachment + precision in 6H matters (service, disease, debt, disputes)
+- Conjunction field: With Venus sign-space
+
+Classical reading:
+- Ketu in 6H is often tactically effective against obstacles, competitors, and procedural complexity.
+
+Applied interpretation:
+- Strong crisis-resolution signature; capacity to cut through noise and solve entrenched problems.
+
+Counter-evidence:
+- Can create irregular routines or abrupt breaks in collaborative environments.
+
+Confidence: High (0.81)
+
+Planetary strength snapshot (from provided Shadbala ranking):
+Strongest cluster: Moon, Mercury, Jupiter, Venus
+Middle: Saturn
+Weaker relative: Mars, Sun
+
+Interpretive caution:
+Relative weakness does not negate outcomes if house lordship and timing are supportive.
+
+---
+
+PAGE 5
+1.5 HOUSE-BY-HOUSE ANALYSIS (1H–12H)
+
+1H (Cancer):
+- Supported by strong Lagnesha in 10H.
+- Net: Identity tied to accomplishment; emotionally sensitive but externally capable.
+- Confidence: High.
+
+2H (Leo):
+- 2L Sun debilitated in 4H with Mercury support.
+- Net: Wealth/speech develop through education, advisory function, structured communication; authority-tone matures gradually.
+- Confidence: Moderate.
+
+3H (Virgo):
+- Occupied by Mars (5L/10L), strong initiative house.
+- Net: Skill-building, writing/analysis, courageous execution, strong self-effort pathway.
+- Confidence: High.
+
+4H (Libra):
+- Sun + Mercury occupancy.
+- Net: Strong mental/educational base; domestic peace requires periodic recalibration; property matters linked to career cycles.
+- Confidence: Moderate-High.
+
+5H (Scorpio):
+- Lord Mars in 3H.
+- Net: Intelligence expressed through practical output, tactical creativity, and applied strategy rather than abstract theorizing alone.
+- Confidence: High.
+
+6H (Sagittarius):
+- Venus + Ketu influence.
+- Net: Service, compliance, analytical healing/problem-solving axis strong; relationship and comfort can face work-conflict spillovers.
+- Confidence: Moderate-High.
+
+7H (Capricorn):
+- Lord Saturn in 11H with transformational 8L role overlap.
+- Net: Partnerships mature slowly; alliance quality improves with age and clarity of social/professional expectations.
+- Confidence: Moderate.
+
+8H (Aquarius):
+- Lord Saturn in 11H.
+- Net: Transformation tied to networks, gains, and social contracts; sudden shifts possible via group dynamics.
+- Confidence: Moderate.
+
+9H (Pisces):
+- 9L Jupiter in 11H (retrograde).
+- Net: Fortune through mentors/institutions/networks; dharma linked to practical contribution.
+- Confidence: Moderate-High.
+
+10H (Aries):
+- Occupied by Moon (Lagnesha).
+- Net: Powerful career/public-life signature; visibility and role responsibility are central life themes.
+- Confidence: High.
+
+11H (Taurus):
+- Jupiter + Saturn occupancy.
+- Net: Long-term gains through sustained effort, institution-building, and mature alliances; results improve with patience.
+- Confidence: High.
+
+12H (Gemini):
+- Rahu occupancy; 12L Mercury in 4H.
+- Net: Foreign/research/backend/introspective channels active; expenditure and mental bandwidth require structure.
+- Confidence: Moderate-High.
+
+---
+
+PART 1 — INTEGRATED NATAL FOUNDATION VERDICT
+
+Most dominant natal pillars:
+1) Lagnesha Moon in 10H (career-centric life architecture)
+2) 5L/10L Mars energizing 3H effort axis (self-made execution)
+3) Heavy 11H gain-network karma (Jupiter + Saturn)
+4) 6H–12H nodal/service axis (problem-solving, foreign/backstage, karmic workload)
+
+Primary contradiction set in natal design:
+- Strong public-output drive (10H Moon, 3H Mars) vs emotional-security baseline (Cancer Lagna).
+- Material gain promise (11H strength) vs periodic strain through 6H/12H karmic drains.
+
+Dominance resolution:
+- Work and contribution pathways dominate life trajectory; emotional and relational stability improves when routines, boundaries, and alliance quality are deliberately managed.
+
+Overall confidence for PART 1 conclusions: Moderate-High (0.81)
+
+
+PROGRESS REPORT
+
+Completed Section:
+PART 1 — NATAL CHART FOUNDATION
+
+Current Report Length:
+~10–12 pages total cumulative equivalent (Parts 0 + 1)
+
+Next Section:
+PART 2 — PLANETARY STRENGTH FRAMEWORK
+
+CONTINUATION MARKER:
+VRPT-2026-06-01-PART1-END-M2
+
+Instructions For Next Session:
+Resume from PAGE 6 with PART 2 only: Shadbala, Ishta/Kashta, avasthas-related interpretation, dignity modifiers (retrogression/combustion/war), and strongest-to-weakest ranking with justifications.
