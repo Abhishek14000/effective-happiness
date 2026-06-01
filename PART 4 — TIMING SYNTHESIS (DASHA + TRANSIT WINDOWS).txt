@@ -1,0 +1,244 @@
+PAGE 10
+PART 4 — TIMING SYNTHESIS (DASHA + TRANSIT WINDOWS)
+
+4.1 DATA FOUNDATION
+
+Primary timing data used from source extract:
+- Vimshottari sequence confirms current Mahadasha timeline:
+  Ketu -> Venus -> Sun -> Moon -> Mars -> Rahu -> Jupiter -> Saturn -> Mercury
+- Sun Mahadasha window: 29/12/2022 to 29/12/2028
+- Sun Mahadasha sub-period boundaries (as provided):
+  Sun: 17/04/2023
+  Moon: 17/10/2023
+  Mars: 23/02/2024
+  Rahu: 17/01/2025
+  Jupiter: 05/11/2025
+  Saturn: 17/10/2026
+  Mercury: 23/08/2027
+  Ketu: 29/12/2027
+  Venus: 29/12/2028
+
+Transit pressure input used:
+- Sade Sati / Panoti report windows (key near-term intervals):
+  Rising: 30/03/2025–02/06/2027 (Pisces phase cluster)
+  Peak: repeated Aries entries 03/06/2027–19/10/2027, 24/02/2028–07/08/2029,
+        06/10/2029–16/04/2030
+  Setting: Taurus entries 08/08/2029–05/10/2029 and 17/04/2030–30/05/2032
+
+Method:
+- Timing synthesis combines Part 1 natal architecture, Part 2 strength mechanics,
+  and Part 3 karmic indicators with the above dasha/transit windows.
+
+Confidence in data integrity: High (0.87)
+
+---
+
+4.2 SUN MAHADASHA (2022–2028) — MASTER INTERPRETATION
+
+Context from prior parts:
+- Sun is Atmakaraka (Part 3) but placed in Libra (debilitation context in D1).
+- Sun shadbala ratio is below threshold (Part 2), so outcomes are real but effortful.
+- Sun as 2nd lord in 4H ties values, speech, family-assets, emotional base, and
+  decision authority into one karma cluster.
+
+Net Mahadasha theme:
+- This is a legitimacy-and-authority training cycle, not a comfort cycle.
+- Progress comes through balanced leadership, skill-backed communication, and
+  value-system alignment, not through force.
+
+Primary opportunities:
+- Rebuilding professional identity with clearer standards.
+- Monetizing knowledge/communication consistently.
+- Establishing long-term personal and domestic stability frameworks.
+
+Primary stressors:
+- Comparison pressure, confidence oscillation, and over-correction behavior.
+- Role strain during high-duty periods (especially with concurrent Saturn pressure).
+
+Confidence: Moderate-High (0.81)
+
+---
+
+4.3 SUB-PERIOD SENSITIVITY (SUN MAHADASHA)
+
+4.3.1 Sun/Saturn (05/11/2025–17/10/2026) [CURRENT WINDOW]
+- Dominant signature: responsibility compression + performance accountability.
+- Likely manifestations:
+  - high workload, slower external response cycles, delayed recognition.
+  - structural correction in career networks and alliances.
+- Strategic use:
+  - focus on discipline, process quality, deliverable credibility.
+  - avoid impulsive exits from valid long-cycle commitments.
+
+Risk grade: High
+Opportunity grade: Moderate-High
+
+4.3.2 Sun/Mercury (17/10/2026–23/08/2027)
+- Dominant signature: cognitive leverage and communication-led gains.
+- Likely manifestations:
+  - better negotiation, writing, advisory, planning, systems design outcomes.
+  - improved tactical flexibility after Saturn-heavy compression.
+- Strategic use:
+  - convert accumulated work into visible frameworks/outputs.
+  - prioritize documented decisions and skill monetization.
+
+Risk grade: Moderate
+Opportunity grade: High
+
+4.3.3 Sun/Ketu (23/08/2027–29/12/2027)
+- Dominant signature: detachment, pruning, karmic filtering.
+- Likely manifestations:
+  - abrupt closure of low-value engagements; reset in routines.
+  - spiritual/inner reorientation with reduced tolerance for superficial structures.
+- Strategic use:
+  - complete pending cycles cleanly; simplify commitments aggressively.
+  - avoid irreversible decisions under emotional fatigue.
+
+Risk grade: Moderate-High
+Opportunity grade: Moderate
+
+4.3.4 Sun/Venus (29/12/2027–29/12/2028)
+- Dominant signature: relational-financial harmonization after pruning phase.
+- Likely manifestations:
+  - gains through cooperation, aesthetics, social capital, practical diplomacy.
+  - improved comfort/resources if routines stay disciplined.
+- Strategic use:
+  - stabilize income systems, relationship boundaries, and lifestyle design.
+  - convert network goodwill into durable value streams.
+
+Risk grade: Moderate
+Opportunity grade: High
+
+---
+
+4.4 TRANSIT TRIGGER WINDOWS (SATURN-HEAVY)
+
+Near-term trigger map (high relevance):
+
+Window A: 30/03/2025–02/06/2027 (Rising Sade Sati cluster)
+- Effect type: load build-up, emotional pressure conditioning, structural testing.
+- Practical implication: preparation phase; weak systems are exposed.
+
+Window B: 03/06/2027–19/10/2027 (Peak entry)
+- Effect type: acute pressure checkpoints.
+- Practical implication: visible responsibility tests and decision clarity demands.
+
+Window C: 24/02/2028–07/08/2029 plus 06/10/2029–16/04/2030 (Peak clusters)
+- Effect type: sustained accountability + maturity testing.
+- Practical implication: outcomes become highly proportional to discipline quality.
+
+Window D: 17/04/2030–30/05/2032 (Setting cluster)
+- Effect type: consolidation and after-effects integration.
+- Practical implication: long-term benefits materialize if earlier structure was sound.
+
+Interpretive caution:
+- Sade Sati windows are pressure multipliers, not deterministic negative outcomes.
+- In this chart, strong Moon/Mercury/Jupiter assets can convert pressure into
+  skill depth and institutional credibility when routines are maintained.
+
+Confidence: Moderate-High (0.79)
+
+---
+
+4.5 EVENT-LIKELIHOOD MATRIX (2025–2030)
+
+Scale:
+- Low / Moderate / High likelihood
+- Matrix reflects probability under current natal-strength model, not certainty.
+
+1) Career-role expansion:
+- Sun/Saturn: Moderate
+- Sun/Mercury: High
+- Sun/Ketu: Moderate
+- Sun/Venus: High
+
+2) Income stabilization:
+- Sun/Saturn: Moderate
+- Sun/Mercury: Moderate-High
+- Sun/Ketu: Moderate
+- Sun/Venus: High
+
+3) Relationship strain from workload spillover:
+- Sun/Saturn: High
+- Sun/Mercury: Moderate
+- Sun/Ketu: Moderate-High
+- Sun/Venus: Moderate
+
+4) Skill recognition / advisory visibility:
+- Sun/Saturn: Moderate
+- Sun/Mercury: High
+- Sun/Ketu: Moderate
+- Sun/Venus: High
+
+5) Emotional fatigue / burnout risk:
+- Sun/Saturn: High
+- Sun/Mercury: Moderate
+- Sun/Ketu: Moderate-High
+- Sun/Venus: Moderate
+
+6) Major structural reset (role, routine, alliances):
+- Sun/Saturn: Moderate-High
+- Sun/Mercury: Moderate
+- Sun/Ketu: High
+- Sun/Venus: Moderate
+
+Confidence (matrix): Moderate (0.76)
+
+---
+
+4.6 MITIGATION STRATEGY BY PERIOD
+
+A) During Sun/Saturn:
+- Enforce strict weekly energy budgeting and recovery blocks.
+- Replace reactive decisions with pre-defined decision protocols.
+- Track output quality metrics, not only output volume.
+
+B) During Sun/Mercury:
+- Publish/communicate frameworks, document systems, and negotiate upgrades.
+- Convert knowledge into repeatable processes and monetizable assets.
+
+C) During Sun/Ketu:
+- Close stale commitments; keep only high-value, dharma-aligned work.
+- Delay irreversible commitments until emotional baseline is stable.
+
+D) During Sun/Venus:
+- Rebalance life architecture: finances, relationships, comfort, aesthetics.
+- Invest in collaborative ecosystems and durable social capital.
+
+Cross-period non-negotiables:
+- Routine discipline, sleep quality, boundary hygiene, and role-priority clarity.
+- These controls are the key contradiction-resolvers for this chart.
+
+Confidence: High (0.82)
+
+---
+
+PART 4 — CONSOLIDATED TIMING VERDICT
+
+- 2025–2026 is a pressure-conditioning phase with durable payoff potential.
+- 2026–2027 improves tactical and communication gains materially.
+- Late 2027 brings pruning/reset dynamics; 2028 improves harmonization and gains.
+- The same chart that shows friction also shows high conversion capacity when
+  structure and pacing discipline are maintained.
+
+Overall confidence for PART 4 conclusions: Moderate-High (0.80)
+
+---
+
+PROGRESS REPORT
+
+Completed Section:
+PART 4 — TIMING SYNTHESIS (DASHA + TRANSIT WINDOWS)
+
+Current Report Length:
+~26–32 pages cumulative equivalent (Parts 0 + 1 + 2 + 3 + 4)
+
+Next Section:
+FINAL INTEGRATED REPORT (MERGED PARTS)
+
+CONTINUATION MARKER:
+VRPT-2026-06-01-PART4-END-FINAL
+
+Instructions For Next Session:
+Merge completed parts into a single final report with integrated verdict,
+prioritized action map, and consolidated confidence summary.
